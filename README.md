@@ -18,3 +18,5 @@ It consists of Image Segmentation Using K-means Clustering with Different K Valu
 <h4>5. Cluster Image with Optimal K:</h4> Choose the optimal K based on the elbow curve, and use cv.kmeans() with this K to segment the image.
 <h4>6. Display Original, Denoised, and Final Clustered Image:</h4> Show the original, denoised, and final segmented images with the optimal K.
 
+<h1>Acknowledgments</h1>
+I would like to thank Dr. Agughasi Victor Ikechukwu sir, Asst. Prof, Dept of Artificial Intelligence, MIT Mysore, Karnataka-India for his guidance and support.
